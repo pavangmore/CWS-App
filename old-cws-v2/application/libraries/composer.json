@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.4",
+        "tecnickcom/tcpdf": "^6.4",
+        "sendgrid/sendgrid": "^7.9",
+        "samayo/bulletproof": "4.0.*"
+    }
+}

@@ -1,0 +1,27 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-14 07:43:08 --> Severity: Notice --> Undefined index: remember_me C:\xampp\htdocs\cws-mis\application\controllers\AuthControl.php 15
+ERROR - 2021-07-14 07:43:08 --> Severity: Notice --> Undefined index: remember_me C:\xampp\htdocs\cws-mis\application\controllers\AuthControl.php 15
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "Dashboard"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "Projects"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "Data Sheets"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "Organigram"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "organigram"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "CWS Forms"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "forms"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "form-settings"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "Reports"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "general-report"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "hr-report"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "finance-report"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "Users"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "manage-user"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "assign-user"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "user-permission"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "Settings"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "email"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "role-permission"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "module"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "appearance"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "system-defaults"
+ERROR - 2021-07-14 08:02:00 --> Could not find the language line "help"

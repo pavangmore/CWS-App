@@ -1,0 +1,38 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['Dashboard'] = "डैशबोर्ड";
+$lang['Admin & Finance'] = "व्यवस्थापक और वित्त";
+$lang['Projects'] = "परियोजनाओं";
+$lang['Data Sheets'] = "डाटा शीट";
+$lang['Organigram'] = "ऑर्गनिग्राम";
+$lang['CWS Forms'] = "सीडब्ल्यूएस फॉर्म";
+$lang['Reports'] = "रिपोर्ट";
+$lang['Users'] = "युसर्स";
+$lang['Settings'] = "सेटीन्ग्स";
+$lang['Center for World Solidarity'] = "सेंटर ऑफ सॉलिडॅरिटी";
+$lang['profile'] = "प्रोफिले";
+$lang['settings'] = "सेटीन्ग्स";
+$lang['notifications'] = "सूचनाएं";
+$lang['logout'] = "लॉग आउट";
+$lang['email'] = "ई-मेल";
+$lang['role-permission'] = "भूमिकाएं और अनुमति";
+$lang['module'] = "मॉड्यूल और उप-मॉड्यूल";
+$lang['appearance'] = "अँपिअर्सन्स";
+$lang['system-defaults'] = "सिस्टम डिफ़ॉल्ट";
+$lang['help'] = "हेल्प";
+$lang['manage-user'] = "मैनेज यूजर";
+$lang['assign-user'] = "असाइन यूजर ";
+$lang['user-permission'] = "यूजर परमिशन";
+$lang['general-report'] = "जनरल रिपोर्ट";
+$lang['hr-report'] = "HR रिपोर्ट";
+$lang['finance-report'] = "फाइनेंस रिपोर्ट";
+$lang['forms'] = "फॉर्म्स";
+$lang['form-settings'] = "फॉर्म्स सेटीन्ग्स";
+$lang['organigram'] = "ओर्गानिग्राम";
+$lang['add-users'] = "यूजर जोड़ना";
+$lang['manage'] = "मैनेज";
+$lang['save'] = "सेव";
+$lang['update'] = "अपडेट";
+$lang['delete'] = "डिलीट";
+$lang['edit'] = "एडिट";

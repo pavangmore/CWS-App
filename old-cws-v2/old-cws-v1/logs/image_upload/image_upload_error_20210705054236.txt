@@ -1,0 +1,1 @@
+{"error":"<p>The image you are attempting to upload doesn't fit into the allowed dimensions.<\/p>"}
